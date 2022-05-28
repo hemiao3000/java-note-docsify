@@ -1,0 +1,5 @@
+* [系统安装的预备知识](/linux/linux-00-预备知识.md)
+* [Ubuntu 的安装](/linux/linux-01-Ubuntu的安装.md)
+* [VMware 上安装 Ubuntu](/linux/linux-02-vmware-ubuntu.md)
+* [Linux 常用命令](/linux/linux-03-命令.md)
+* [安装 CentOS-8 之后的常见配置](/linux/linux-04-after-install-centos8.md)

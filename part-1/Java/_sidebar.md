@@ -1,0 +1,7 @@
+* [为什么要配环境变量](/part-1/Java/00-环境变量.md)
+* [Java 语法](/part-1/Java/01-Java语法汇总.md)
+* [引用](/part-1/Java/03-引用.md)
+* [集合框架](/part-1/Java/04-集合框架.md)
+* [异常的作用](/part-1/Java/05-exception.md)
+* [使用枚举实现单例模式](/part-1/Java/07-enum-Singleton.md)
+* [杂项](/part-1/Java/99-sundry.md)
